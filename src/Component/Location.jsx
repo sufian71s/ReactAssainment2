@@ -134,7 +134,7 @@ const Card =[
       </div>
 
       <div className='md:w-1/2 mx-auto flex max-h-[500px]  py-10'>
-        <img  src="/public/map2.png" alt="" />
+        <img  src="/map2.png" alt="" />
       </div>
 
 
