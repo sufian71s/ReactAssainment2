@@ -11,21 +11,21 @@ function Incidents() {
 const Card =[
   {
     id:1,
-    img:"/public/Frame.png",
+    img:"/Frame.png",
     title:"Tulare County",
     text:"Tulare County,  Los Angles, CA 23415",
 
   },
     {
     id:1,
-    img:"/public/Frame (2).png",
+    img:"/Frame (2).png",
     title:"Tulare County",
     text:"Tulare County,  Los Angles, CA 23415",
  
   },
     {
     id:1,
-    img:"/public/Frame (1).png",
+    img:"/Frame (1).png",
     title:"Tulare County",
     text:"Tulare County,  Los Angles, CA 23415",
   
